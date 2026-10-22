@@ -70,7 +70,7 @@
         "@types/vscode": "^1.80.0",
         "@vscode/test-electron": "^2.3.3",
         "glob": "^8.1.0",
-        "mocha": "^10.2.0",
+        "mocha": "^12.0.3",
         "mock-require": "^3.0.3",
         "@types/mock-require": "^2.0.0",
         "sinon": "^15.2.0",
